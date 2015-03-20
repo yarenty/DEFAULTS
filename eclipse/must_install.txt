@@ -1,0 +1,16 @@
+Findbugs:
+http://findbugs.cs.umd.edu/eclipse
+
+PMD:
+http://sourceforge.net/projects/pmd/files/pmd-eclipse/update-site/
+
+
+Checkstyle:
+http://eclipse-cs.sourceforge.net/update/
+
+or new marketplace version:
+http://eclipse-cs.sourceforge.net/
+
+
+
+
